@@ -1,7 +1,7 @@
 {
   "name": "ocld-writing",
-  "version": "0.0.1",
-  "description": "Meta Package",
+  "version": "0.0.2",
+  "description": "Meta Package For Writing Tools",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -25,11 +25,13 @@
   },
   "homepage": "https://github.com/ocular-d/ocld-writing#readme",
   "dependencies": {
-    "remark": "^12.0.0",
-    "remark-cli": "^8.0.0",
-    "remark-preset-lint-consistent": "^3.0.0",
-    "remark-preset-lint-markdown-style-guide": "^3.0.0",
-    "remark-preset-lint-recommended": "^4.0.0",
-    "remark-validate-links": "^10.0.0"
+    "remark": "^13.0.0",
+    "remark-cli": "^9.0.0",
+    "remark-preset-lint-consistent": "^4.0.0",
+    "remark-preset-lint-markdown-style-guide": "^4.0.0",
+    "remark-preset-lint-recommended": "^5.0.0",
+    "remark-validate-links": "^10.0.0",
+    "alex": "^9.1.0",
+    "markdown-link-check": "^3.8.5"
   }
 }

@@ -28,7 +28,18 @@
 
 ## 📄 About
 
-NPM Meta Package for ocular-d remark
+NPM Meta Package for (technical) writing.
+
+This package installs the following packages:
+
+- remark,
+- remark-cli
+- remark-preset-lint-consistent
+- remark-preset-lint-markdown-style-guide
+- remark-preset-lint-recommended
+- remark-validate-links
+- alex,
+- markdown-link-check
 
 ## 🚀 Usage
 
