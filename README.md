@@ -38,6 +38,7 @@ This package installs the following packages:
 - remark-preset-lint-markdown-style-guide
 - remark-preset-lint-recommended
 - remark-validate-links
+- remark-lint-no-missing-blank-lines
 - alex,
 - markdown-link-check
 
