@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.0.4] - 2021-01-26
+
+### Added
+
+- remark-lint-no-trailing-spaces
+
 ## [0.0.3] - 2021-01-19
 
 ### Added

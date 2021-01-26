@@ -1,6 +1,6 @@
 {
   "name": "ocld-writing",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Meta Package For Writing Tools",
   "main": "index.js",
   "directories": {
@@ -33,6 +33,7 @@
     "remark-validate-links": "^10.0.0",
     "alex": "^9.1.0",
     "markdown-link-check": "^3.8.5",
-    "remark-lint-no-missing-blank-lines": "^2.0.1"
+    "remark-lint-no-missing-blank-lines": "^2.0.1",
+    "remark-lint-no-trailing-spaces": "^2.0.1"
   }
 }
