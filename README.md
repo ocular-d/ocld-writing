@@ -42,6 +42,7 @@ This package installs the following packages:
 - remark-lint-no-trailing-spaces
 - alex
 - markdown-link-check
+- markdown-spellcheck
 
 ## 🚀 Usage
 
