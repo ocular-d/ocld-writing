@@ -40,8 +40,6 @@ This package installs the following packages:
 - remark-validate-links
 - remark-lint-no-missing-blank-lines
 - remark-lint-no-trailing-spaces
-- remark-frontmatter
-- remark-frontmatter-validator
 - alex
 - markdown-link-check
 - markdown-spellcheck
